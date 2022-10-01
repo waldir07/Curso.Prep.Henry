@@ -87,7 +87,9 @@ Las "strings" son bloques de texto, siempre se definirán entre comillas, ya sea
 
 ```javascript
 var nombrePerro = 'firulais';
+
 ```
+
 ### Numbers
 
 Los números son solo eso, números. Los números NO se envuelven en comillas. Pueden ser negativos también. Javascript tiene una limitación en el tamaño de un número (+/- 9007199254740991), pero muy raramente aparecerá esa limitación en nuestro uso diario.
